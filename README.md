@@ -58,6 +58,7 @@ This project is mainly used to collect the exp for Linux platform privilege prom
 | [CVE-2018-18955](./CVE-2018-18955)     | Linux Kernel  |       Linux kernel 4.15.x through 4.19.x before 4.19.2       |
 | [CVE-2018-1000001](./CVE-2018-1000001) | glibc         |                          glibc 2.26                          |
 | [CVE-2019-7304](./CVE-2019-7304)       | snapd         |                        snapd < 2.37.1                        |
+| [CVE-2019-2215](./CVE-2019-2215)       | Linux Kernel  |                               binder.c                       |
 | [CVE-2019-13272](./CVE-2019-13272)     | Linux Kernel  |                     Linux 4.10 < 5.1.17                      |
 | [CVE-2021-3156](./CVE-2021-3156)       | sudo          |                     Sudo before 1.9.5p2                      |
 
