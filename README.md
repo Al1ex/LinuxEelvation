@@ -62,6 +62,7 @@ This project is mainly used to collect the exp for Linux platform privilege prom
 | [CVE-2019-13272](./CVE-2019-13272)     | Linux Kernel  |                     Linux 4.10 < 5.1.17                      |
 | [CVE-2021-3156](./CVE-2021-3156)       | sudo          |                     Sudo before 1.9.5p2                      |
 | [CVE-2021-3493](./CVE-2021-3493)       |Ubuntu OverLayFS|    Ubuntu 14 04 ESM 16 04 LTS 18 04 LTS 20 04 LTS           |
+| [CVE-2021-4034](./CVE-2021-4034)       |pkexec          |    All Linux *                                              |
 
 ## Mind Map
 
