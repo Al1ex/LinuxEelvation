@@ -42,27 +42,39 @@ This project is mainly used to collect the exp for Linux platform privilege prom
 | [CVE-2014-4699](./CVE-2014-4699)       | Linux Kernel  |                        before 3.15.4                         |
 | [CVE-2014-5284](./CVE-2014-5284)       | File Creation |                       OSSEC OSSEC 2.8                        |
 | [CVE-2015-1328](./CVE-2015-1328)       | Linux Kernel  |                     3.13, 3.16.0, 3.19.0                     |
+| [CVE-2015-8550](./CVE-2015-8550)       | Linux Kernel  |                             Linux-4.19.65                    |
 | [CVE-2015-7547](./CVE-2015-7547)       | Glibc         |                       before Glibc 2.9                       |
 | [CVE-2016-0728](./CVE-2016-0728)       | Linux Kernel  | 3.8.0-3.8.9,3.9-3.13,3.4.0-3.13.0,3.8.5-3.8.9,3.10.6,3.9.6,3.13.1 |
 | [CVE-2016-2384](./CVE-2016-2384)       | Linux Kernel  |                          before 4.5                          |
 | [CVE-2016-5195](./CVE-2016-5195)       | Linux Kernel  |                        kernel>2.6.22                         |
 | [CVE-2016-9793](./CVE-2016-9793)       | Linux Kernel  |                        before 4.8.14                         |
 | [CVE-2017-5123](./CVE-2017-5123)       | Linux Kernel  |                      Kernel 4.14.0-rc4+                      |
+| [CVE-2017-8890](./CVE-2017-8890)       | Linux Kernel  |                        Linux-4.10.15                         |
+| [CVE-2017-11176](./CVE-2017-11176)     | Linux Kernel  |                        Linux-4.11.9                          |
 | [CVE-2017-6074](./CVE-2017-6074)       | Linux Kernel  |                 Linux kernel through 4.9.11                  |
 | [CVE-2017-7308](./CVE-2017-7308)       | Linux Kernel  |                 Linux kernel through 4.10.6                  |
 | [CVE-2017-7494](./CVE-2017-7494)       | Samba         |               Samba 3.5.0-4.6.4/4.5.10/4.4.14                |
 | [CVE-2017-16939](./CVE-2017-16939)     | Linux Kernel  |                 Linux kernel before 4.13.11                  |
 | [CVE-2017-16995 ](./CVE-2017-16995)    | Linux Kernel  |                Linux Kernel Version 4.14-4.4                 |
 | [CVE-2017-1000367](./CVE-2017-1000367) | Sudo          |                    Sudo 1.8.6p7 - 1.8.20                     |
+| [CVE-2018-5333](./CVE-2018-5333)       | Linux Kernel  |                         Linux-4.14.13                        |
 | [CVE-2018-17182](./CVE-2018-17182)     | Linux Kernel  |                         3.16-4.18.8                          |
 | [CVE-2018-18955](./CVE-2018-18955)     | Linux Kernel  |       Linux kernel 4.15.x through 4.19.x before 4.19.2       |
 | [CVE-2018-1000001](./CVE-2018-1000001) | glibc         |                          glibc 2.26                          |
 | [CVE-2019-7304](./CVE-2019-7304)       | snapd         |                        snapd < 2.37.1                        |
 | [CVE-2019-2215](./CVE-2019-2215)       | Linux Kernel  |                               binder.c                       |
+| [CVE-2019-15666](./CVE-2019-15666)     | Linux Kernel  |                           Linux-4.14.13                      |
 | [CVE-2019-13272](./CVE-2019-13272)     | Linux Kernel  |                     Linux 4.10 < 5.1.17                      |
+| [CVE-2020-8835](./CVE-2020-8835)       | Linux Kernel  |                           Linux-5.5.0                        |
+| [CVE-2020-27194](./CVE-2020-27194)     |Linux Kernel    |                     Linux-5.8.14                            |
 | [CVE-2021-3156](./CVE-2021-3156)       | sudo          |                     Sudo before 1.9.5p2                      |
 | [CVE-2021-3493](./CVE-2021-3493)       |Ubuntu OverLayFS|    Ubuntu 14 04 ESM 16 04 LTS 18 04 LTS 20 04 LTS           |
 | [CVE-2021-4034](./CVE-2021-4034)       |pkexec          |    All Linux *                                              |
+| [CVE-2021-3490](./CVE-2021-3490)       | Linux Kernel   |              Linux-5.11 Linux-5.11.16                       |
+| [CVE-2021-22555](./CVE-2021-22555)     | Linux Kernel   |              Linux-5.11.14                                  |
+| [CVE-2021-31440](./CVE-2021-31440)     | Linux Kernel   |               Linux-5.11                                    |
+| [CVE-2021-42008](./CVE-2021-42008)     | Linux Kernel   |               Linux-5.13.12                                 |
+| [CVE-2021-43267](./CVE-2021-43267)     | Linux Kernel   |               Linux-5.14.15                                 |
 
 ## Mind Map
 
@@ -90,4 +102,5 @@ Please do not use it for illegal purposes, or you will be responsible for the se
 - [A bunch of proof-of-concept exploits for the Linux kernel](https://github.com/xairy/kernel-exploits)  
 - [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
+- [kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory)
 
