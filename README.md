@@ -75,6 +75,7 @@ This project is mainly used to collect the exp for Linux platform privilege prom
 | [CVE-2021-31440](./CVE-2021-31440)     | Linux Kernel   |               Linux-5.11                                    |
 | [CVE-2021-42008](./CVE-2021-42008)     | Linux Kernel   |               Linux-5.13.12                                 |
 | [CVE-2021-43267](./CVE-2021-43267)     | Linux Kernel   |               Linux-5.14.15                                 |
+| [CVE-2022-0847](./CVE-2022-0847)       | Linux Kernel   |               Linux kernel <5.17-rc6                        |
 
 ## Mind Map
 
